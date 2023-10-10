@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiseduardobrito1/)
 [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.b.c.melo@gmail.com) 
 
-![Cabrito GitHub stats](https://github-readme-stats.vercel.app/api?username=Cabr1to&show_icons=true&theme=dracula)
+![Cabr1to's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cabr1to&show_icons=true&theme=radical)
 
 ## Tecnologias que estou estudando
 
