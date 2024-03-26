@@ -5,6 +5,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Cabr1to=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## OS
+<img align="center"   alt="Linux" src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
 ## Tecnologias que estou estudando
 
 <div style= "display: inline_block"> <br/>
