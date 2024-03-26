@@ -1,10 +1,32 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header">
 
-### Olá! Eu sou o Luis Eduardo Brito 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!;+My+name+is+Luis+Eduardo+Brito!;Currently+graduating+at;Universidade+Catolica+de+Brasilia;)](https://git.io/typing-svg)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiseduardobrito1/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.b.c.melo@gmail.com) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cabr1to&bg_color=0d1117&color=8A2BE2&line=5900ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-https://github-readme-stats.vercel.app/api?Cabr1to={Cabr1to}&theme=blue-green
+<div align="center"> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cabr1to&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=9370DB&text_color=9370DB&bg_color=0d1117" alt="Cabr1to's github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabr1to&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9370DB&bg_color=0d1117" />
+</div>
+
+<div align="center">
+<a href="https://instagram.com/ogbigbrito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:luis.b.c.melo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luiseduardobrito1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+ </div>
+
+ ### Main skills:
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
+![C.Language](https://img.shields.io/badge/-C.Language-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+
+
+### Studying...
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
+![C.Language](https://img.shields.io/badge/-C.Language-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ## OS
 
@@ -13,18 +35,11 @@ https://github-readme-stats.vercel.app/api?Cabr1to={Cabr1to}&theme=blue-green
 <img align="center"   alt="Windows" src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 <br>
-## Tecnologias que estou estudando
 
-<div style= "display: inline_block"> <br/>
-  <img align="center"   alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center"   alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center"   alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center"   alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center"   alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center"   alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  
-  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ZxGusst}/count.svg" /></p>
+<br>
 </div>
-<br>  
-Ainda sou iniciate, porém com muita decicação e vontade de progredir no mundo da tecnologia.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer">
